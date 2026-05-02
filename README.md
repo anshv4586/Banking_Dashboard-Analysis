@@ -77,7 +77,7 @@ Moderate link between business loans and general bank loans
  ┗ 📜 README.md
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/your-username/Banking-EDA.git
+git clone https://github.com/anshv4586/Banking_Dashboard-Analysis.git
 Install dependencies:
 pip install pandas numpy matplotlib seaborn
 Run the notebook:
