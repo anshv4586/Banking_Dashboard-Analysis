@@ -1,4 +1,4 @@
-# 🏦 Banking Data - Exploratory Data Analysis (EDA)
+# 🏦 Banking Data Analysis
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a banking dataset to understand customer financial behavior, relationships between variables, and key insights useful for business decision-making.
